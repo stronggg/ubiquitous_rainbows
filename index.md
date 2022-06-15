@@ -2,8 +2,6 @@
 layout: home
 permalink: /
 title: Welcome
-
+published: true
 ---
-A simple and elegant theme for Jekyll and GitHub Pages.
-
-
+this is the home page
